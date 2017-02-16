@@ -1,7 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-I get a folder named .git using the command git init.
+  I get a folder named .git using the command git init.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-it allows to add my files to the repository and check the status it.
+  It allows to add my files to the repository and check the status it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+  
+  I can git diff between staging area and directory and also git diff —staged between the      last commit and the staging area. If they return nothing it means there are no changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ Branches can be useful when we want to add a change to experiment with our code without affecting our master branch.
