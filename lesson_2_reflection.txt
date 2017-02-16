@@ -24,4 +24,4 @@ What is the result of merging two branches together? Why do we represent it in t
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-   Auto merging is easy, manual merging is a mess if you don’t know where to put your hands.
+   Auto merging is easy, manual merging is compulsory where there are conflicts in the code: for example same parts of code has changes and we need to decide which one to keep. is a mess if you don’t know where to put your hands.
