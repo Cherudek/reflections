@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work locallly?
+
+  to allow a collaborative workflow and to get access to my code from everywhere.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+   
+    So I can control of the logic changes and commit them when required. Auto instead would create commits on a temporal basis rather on a logic need.
