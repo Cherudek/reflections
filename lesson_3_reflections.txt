@@ -5,3 +5,7 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
    
     So I can control of the logic changes and commit them when required. Auto instead would create commits on a temporal basis rather on a logic need.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  I am forking when I want to clone someone else commit to my on GitHub and then I can do my own commits. I am cloning when I want to copy a remote file (for example on GitHub) to my local repository. I am branching lastly when I want to experiment with something and I want to depart from the master branch so I can work on alternative functions of my project.
